@@ -1,6 +1,7 @@
 # Selenium-Practical-Project
 
 Test Scenario
+
 Launch the browser and access the webpage by URL
 Verify the title of the webpage and print the verification result
 Enter the username and Password
